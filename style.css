@@ -1,0 +1,75 @@
+.container{
+    background-color: #FFCD9E;
+    background-size: cover;
+    height: 65vh;
+    display: flex;
+}
+
+.matter-section{
+    text-align: left;
+    padding-left: 100px;
+    
+}
+h1{
+    padding-top: 50px;
+    font-size:36px ;
+    font-family: Inter;
+    font-weight: bold;
+}
+
+img{
+    align-items: flex-end;
+    padding-top: 60px;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    height: 350px;
+    width: 350px;
+}
+.free-para{
+    color:white;
+    padding-left: 40px;
+}
+input{
+    height: 36px;
+    border-radius: 5px;
+    width: 300px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 165px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.bottom{
+    background-color:  #282828;
+    background-size: cover;
+    height: 35vh;
+    padding: 0px;
+    display: inline-block;
+    width: 100%;
+    display: inline-flex;
+}
+.para{
+    color: #FFFFFF;    ;
+    padding-left: 250px;
+    padding-top: 25px;
+}
+.bottom-right{
+    text-align: right;
+    color: #FFFFFF;    ;
+    padding-left: 750px;
+    padding-top: 25px;
+}
+.linkedin{
+  
+    border-style: solid;
+    border-color: #FFCD9E;
+    border: 3px solid #FFCD9E;
+    
+}
